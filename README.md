@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently hiring .net developer 
 - 🌱 I’m currently learning recruitment 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: linkedin - https://www.linkedin.com/in/deendyal-patil-9b0a8a8a
 - 😄 Pronouns: He/His
 -->
