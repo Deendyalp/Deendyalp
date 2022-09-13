@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 
-
-![Deendyalp GitHub stats](https://github-readme-stats.vercel.app/api?username=deendyalp&show_ico
+[![Deendyal's GitHub stats](https://github-readme-stats.vercel.app/apiDeendyalpanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
